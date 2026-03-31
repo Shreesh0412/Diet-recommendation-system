@@ -17,7 +17,7 @@ This leads to unhealthy eating habits and poor lifestyle choices.
 
 ## How to Run
 1. Clone the repository
-2. Run: python cli.py
+2. Run: cli.py
 
 ## Sample Input
 ```Diet Recommendation System
