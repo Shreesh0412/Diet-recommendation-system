@@ -10,6 +10,6 @@ def main():
 
 while True:
     main()
-    a=print("Do you wish to continue? (y/n)")
-    if a==n:
+    a=str(input("Do you wish to continue? (y/n)"))
+    if a=="n":
         break
