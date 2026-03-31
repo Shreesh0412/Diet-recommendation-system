@@ -7,7 +7,7 @@ def calories(weight, goal):
         return g
     else:
         g=weight*30
-        return
+        return g
 
 
 def diet(goal):
@@ -22,14 +22,14 @@ def diet(goal):
     elif goal == "gain":
         return {
             "Breakfast": "Milk + Banana + Peanut Butter",
-            "Lunch": "Rice + Paneer/Chicken",
+            "Lunch": "Rice + Paneer / Chicken",
             "Dinner": "Chapati + Eggs/Paneer",
             "Snacks": "Dry fruits + Smoothie"
         }
 
     else:
         return {
-            "Breakfast": "Poha/Upma + Fruits",
+            "Breakfast": "Poha / Upma + Fruits",
             "Lunch": "Rice + Dal + Vegetables",
             "Dinner": "Chapati + Sabzi",
             "Snacks": "Fruits / Nuts"
