@@ -20,15 +20,15 @@ This leads to unhealthy eating habits and poor lifestyle choices.
 2. Run: python cli.py
 
 ## Sample Input
-Diet Recommendation System
-Enter goal: loss
-Enter weight: 60
+- Diet Recommendation System
+- Enter goal: loss
+- Enter weight: 60
  
 
 ## Sample Output
-Your Diet Plan
-Recommended Calories: 1500 kcal
-Breakfast: Oats + Fruits
-Lunch: Brown rice + Dal + Vegetables
-Dinner: Chapati + Sabzi
-Snacks: Nuts / Green Tea
+- Your Diet Plan
+- Recommended Calories: 1500 kcal
+- Breakfast: Oats + Fruits
+- Lunch: Brown rice + Dal + Vegetables
+- Dinner: Chapati + Sabzi
+- Snacks: Nuts / Green Tea
